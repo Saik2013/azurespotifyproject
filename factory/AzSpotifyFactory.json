@@ -1,0 +1,9 @@
+{
+	"name": "AzSpotifyFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0dabf35a-f6a8-4e5e-a0b5-2aced877965a",
+		"tenantId": "b8cbcf65-e563-4cb7-ad17-c5f1ac85789c"
+	}
+}
